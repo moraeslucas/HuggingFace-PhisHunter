@@ -4,9 +4,9 @@ emoji: 🕵️‍♂️
 colorFrom: blue
 colorTo: indigo
 sdk: gradio
-#sdk_version: "{{sdkVersion}}"
 app_file: app.py
 pinned: false
+sdk_version: 5.38.2
 ---
 
 \# PhishHunter 
@@ -128,4 +128,3 @@ PhishHunter is an open-source NLP-based email classification tool that detects p
 
 
 This project is licensed under the MIT License.
-
