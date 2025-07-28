@@ -1,0 +1,12 @@
+Subject: Urgent Account Verification Required
+
+Dear user,
+
+We have detected unusual activity on your account. To secure your data, please verify your identity immediately by clicking the link below:
+
+http://secure-account-verify.com/login
+
+Failure to comply within 24 hours will result in permanent suspension of your account.
+
+Sincerely,
+Security Team

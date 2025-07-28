@@ -1,0 +1,11 @@
+Subject: Microsoft Security Alert
+
+Dear user,
+
+We have noticed a new sign-in to your Microsoft account from an unrecognized device. If this was not you, please secure your account immediately:
+
+https://account.microsoft-security-check.com
+
+Ignoring this alert may result in temporary suspension for your protection.
+
+Microsoft Account Team

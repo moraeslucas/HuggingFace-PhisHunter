@@ -1,0 +1,10 @@
+Subject: [Internal] Firewall Maintenance Notification
+
+Dear team,
+
+Please note that the firewall will be updated on Saturday at 02:00 AM. Expect short-term service interruptions during the maintenance window.
+
+If you experience any issues, contact the IT team.
+
+Regards,
+IT Operations

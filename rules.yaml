@@ -1,0 +1,47 @@
+keywords:
+  impersonation:
+    en:
+      - { term: "Microsoft", weight: 0.5 }
+      - { term: "DocuSign", weight: 0.7 }
+      - { term: "PayPal", weight: 0.8 }
+    pt:
+      - { term: "DocuSign", weight: 0.7 }
+      - { term: "Caixa", weight: 0.6 }
+      - { term: "Segurança Social", weight: 0.8 }
+
+  prize:
+    en:
+      - { term: "congratulations", weight: 0.7 }
+      - { term: "winner", weight: 0.8 }
+      - { term: "prize", weight: 0.8 }
+    pt:
+      - { term: "par(á|a)b(é|e)ns", weight: 0.9 }
+      - { term: "pr(é|e)mio", weight: 0.8 }
+      - { term: "ganhador", weight: 0.7 }
+    global:
+      - { term: "gift.?card", weight: 0.9 }
+
+  sensitive_info:
+    en:
+      - { term: "password", weight: 0.9 }
+      - { term: "login", weight: 0.8 }
+      - { term: "verify your account", weight: 1.0 }
+      - { term: "credentials", weight: 0.9 }
+    pt:
+      - { term: "senha", weight: 0.9 }
+      - { term: "palavra.?passe", weight: 0.8 }
+      - { term: "credenciais", weight: 0.9 }
+      - { term: "verifique sua conta", weight: 1.0 }
+    global: []
+
+  urgency:
+    en:
+      - { term: "urgent", weight: 0.9 }
+      - { term: "action required", weight: 0.8 }
+    pt:
+      - { term: "urgente", weight: 0.9 }
+      - { term: "ação imediata", weight: 0.8 }
+    global:
+      - { term: "immediately", weight: 0.7 }
+      - { term: "24 hours", weight: 0.6 }
+

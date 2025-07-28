@@ -1,0 +1,55 @@
+email_text,output 0,Explicação,timestamp
+"'Subject: Congratulations! You've Won a Gift Card 🎁
+
+Hi there,
+
+You’ve been selected as a lucky winner of a $100 Amazon gift card! To claim your prize, simply fill in your details at the link below:
+
+http://amaz0n-prize-now.ru
+
+Hurry — this offer expires in 24 hours!
+
+Best of luck,
+Rewards Center","{""label"": ""Phishing \ud83d\udea8"", ""confidences"": null}","🧠 Modelo BERT: Phishing (99.98%)
+🔎 Heurística: Score = 4.8
+• [prize] Matched 'gift.?card' (global, weight=0.9)
+• [prize] Matched 'congratulations' (en, weight=0.7)
+• [prize] Matched 'winner' (en, weight=0.8)
+• [prize] Matched 'prize' (en, weight=0.8)
+• [urgency] Matched '24 hours' (global, weight=0.6)
+• Contains suspicious link(s): http://amaz0n-prize-now.ru
+
+🗝️ Palavras-chave: Amazon gift card, Gift Card, Congratulations, Amazon gift, Subject",2025-07-21 15:33:49.523444
+"'Subject: Congratulations! You've Won a Gift Card 🎁
+
+Hi there,
+
+You’ve been selected as a lucky winner of a $100 Amazon gift card! To claim your prize, simply fill in your details at the link below:
+
+http://amaz0n-prize-now.ru
+
+Hurry — this offer expires in 24 hours!
+
+Best of luck,
+Rewards Center","{""label"": ""Phishing \ud83d\udea8"", ""confidences"": null}","🧠 Modelo BERT: Phishing (99.98%)
+🔎 Heurística: Score = 4.8
+• [prize] Matched 'gift.?card' (global, weight=0.9)
+• [prize] Matched 'congratulations' (en, weight=0.7)
+• [prize] Matched 'winner' (en, weight=0.8)
+• [prize] Matched 'prize' (en, weight=0.8)
+• [urgency] Matched '24 hours' (global, weight=0.6)
+• Contains suspicious link(s): http://amaz0n-prize-now.ru
+
+🗝️ Palavras-chave: Amazon gift card, Gift Card, Congratulations, Amazon gift, Subject",2025-07-21 15:33:53.036101
+"'Subject: Meeting Rescheduled
+
+Hi John,
+
+The client meeting has been rescheduled to Thursday at 3 PM. Please let me know if that works for you.
+
+Best,
+Maria","{""label"": ""Leg\u00edtimo \u2705"", ""confidences"": null}","🧠 Modelo BERT: Legitimate (99.99%)
+🔎 Heurística: Score = 0.0
+
+
+🗝️ Palavras-chave: Rescheduled Hi John, Meeting Rescheduled, rescheduled to Thursday, client meeting, John",2025-07-21 15:34:16.300979

@@ -1,0 +1,23 @@
+# Ambientes virtuais
+venv/
+env/
+
+# Ficheiros temporários e compilados
+__pycache__/
+*.py[cod]
+*.log
+
+# Ficheiros do sistema
+.DS_Store
+Thumbs.db
+
+# Ficheiros de IDEs
+.vscode/
+.idea/
+
+# Ficheiros de testes ou exemplos temporários
+*.tmp
+*.bak
+
+# Chaves ou configs privadas
+*.env

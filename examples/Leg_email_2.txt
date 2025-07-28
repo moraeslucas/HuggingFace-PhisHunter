@@ -1,0 +1,8 @@
+Subject: Invoice for Your Purchase
+
+Dear Customer,
+
+Thank you for your recent order. Attached is the invoice for your purchase. If you have any questions, feel free to contact our support team.
+
+Best regards,
+Online Store Team
