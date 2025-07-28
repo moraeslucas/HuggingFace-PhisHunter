@@ -1,3 +1,14 @@
+---
+title: PhishHunter
+emoji: 🕵️‍♂️
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+#sdk_version: "{{sdkVersion}}"
+app_file: app.py
+pinned: false
+---
+
 \# PhishHunter 
 
 
